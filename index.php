@@ -1,5 +1,5 @@
 <?php
 
 echo "Hello World!";
-echo "uploaded with azure service " 
-  />
+echo "uploaded with azure service " ;
+  
